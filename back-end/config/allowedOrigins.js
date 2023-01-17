@@ -1,4 +1,5 @@
 const allowedOrigins = [
+    'https://smak-app.netlify.app',
     'https://smak-team-2.netlify.app',
     'http://localhost:3000',
     'http://localhost:3001',
